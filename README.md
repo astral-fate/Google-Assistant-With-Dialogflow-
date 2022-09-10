@@ -13,7 +13,13 @@
 
 ## Intents
 
+<img width="532" alt="image" src="https://user-images.githubusercontent.com/63984422/189468748-3f192cb5-67e8-4829-9f72-512a63149845.png">
+
+
 After training your model, you have to assign a respond 
+
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/63984422/189468623-96ca656d-c8dd-47c8-82d5-4c6f392a1c9d.png">
+
 
 
 ## Base Knowledge
